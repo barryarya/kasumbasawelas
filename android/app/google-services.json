@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860655042376",
+    "project_id": "kasumbasawelas",
+    "storage_bucket": "kasumbasawelas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860655042376:android:5806c5afd328f934527d7d",
+        "android_client_info": {
+          "package_name": "com.example.kasumbasawelas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBT7COKKYFJHeKx911ImNzv-WJImmg28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
